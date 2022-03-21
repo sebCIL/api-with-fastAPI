@@ -1,4 +1,4 @@
-# api-with-fastify
+# api-with-fastAPI
 Squelette d'API avec FastAPI et documentation OpenAPI
 
 Cette api est basée sur [FastAPI](https://fastapi.tiangolo.com/), [pyODBC](https://github.com/mkleehammer/pyodbc).
